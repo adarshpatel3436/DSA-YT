@@ -1,6 +1,5 @@
 package basicDSAQue;
 
-import javax.sound.midi.SysexMessage;
 import java.util.Scanner;
 
 public class BenjaminBulbs {
