@@ -1,4 +1,4 @@
-package basicDSA;
+package basicDSAQue;
 
 import java.util.Scanner;
 
