@@ -29,7 +29,7 @@ public class pattern_10 {
                 os--;
                 is += 2;
             }else{
-                os--;
+                os++;
                 is -= 2;
             }
 
