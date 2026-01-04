@@ -3,7 +3,7 @@ package Patterns;
 import java.util.Scanner;
 
 public class pattern_17 {
-    // public static void main(String[] args) {} -- args java 25 me jaruri nhi hota isiliye ham aise bhi likh sakte h
+    // for IntelliJ
     static void main() {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter n: ");
