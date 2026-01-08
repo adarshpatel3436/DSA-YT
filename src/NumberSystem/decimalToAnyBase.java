@@ -2,7 +2,7 @@ package NumberSystem;
 
 import java.util.Scanner;
 
-public class decimalToBase {
+public class decimalToAnyBase {
 
     public static int getValueInBase(int n , int d){
         int rv = 0;
