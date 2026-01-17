@@ -18,7 +18,6 @@ public class barChart {
                 max = arr[i];
             }
         }
-
         for(int floar = max ; floar >= 1; floar--){
             for (int i = 0; i < arr.length; i++) {
                 if(arr[i] >= floar){
