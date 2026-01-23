@@ -31,7 +31,6 @@ public class stringCompression {
                     s += count;
                     count = 1;
                 }
-
                 s += curr;
             }
         }
